@@ -96,6 +96,3 @@ The only change this module makes to the code is adding two lines to the if stat
 elif isinstance(val, bool):
     the_repr = val
 ```
-## Changelog
-### 1.0.0
-- First Release :D
