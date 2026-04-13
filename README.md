@@ -1,4 +1,5 @@
-
+# NOTICE
+This package is now unnecessary because it's been merged. 
 ## What it is
 
 A docassemble extension to improve the include_docx_template() function by letting it pass booleans to the subdocument.
